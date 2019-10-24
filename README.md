@@ -14,4 +14,4 @@ Please note that, unless you reconstruct the database locally, you won't be able
 
 ### Deploying the Server to the Cloud
 
-At the time of writing, we're using Heroku to host our website. See <https://harvesthub.herokuapp.com/>. Heroku itself is awash with instructions on how to deploy and update apps.
+At the time of writing, we're using Heroku to host our website. See <https://harvesthub-skeleton.herokuapp.com/>. Heroku itself is awash with instructions on how to deploy and update apps.
